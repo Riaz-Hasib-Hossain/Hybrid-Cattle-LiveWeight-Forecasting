@@ -56,9 +56,9 @@ The research datasets and forecasting models are maintained in Google Drive.
 
 Access is restricted and may be granted to researchers upon reasonable request, subject to approval and applicable data-sharing conditions.
 
-**Dataset access:** [Google Drive Dataset Link]
+**Dataset access:https://drive.google.com/drive/folders/1O_MRIQhrfS3HL5_uRWq5iS0rX28dtZnt?usp=sharing
 
-**Model access:** [Google Drive Model Link]
+**Model access:https://drive.google.com/drive/folders/1O_MRIQhrfS3HL5_uRWq5iS0rX28dtZnt?usp=sharing
 
 Researchers should contact the corresponding author to request access.
 
