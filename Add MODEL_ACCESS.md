@@ -19,7 +19,7 @@ Comparative baselines include persistence, LSTM, and GRU for animal-level foreca
 
 Research model files and associated implementation materials are maintained in Google Drive.
 
-**Google Drive Model Folder:** [Insert Model Folder Link]
+**Google Drive Model Folder:https://drive.google.com/drive/folders/1O_MRIQhrfS3HL5_uRWq5iS0rX28dtZnt?usp=sharing
 
 ## Access Conditions
 
